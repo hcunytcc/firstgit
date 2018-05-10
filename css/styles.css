@@ -1,0 +1,7 @@
+.square {
+    background-image: url(asset\img\tiare.jpg);
+    border: solid 2px;
+    text-shadow: darkblue 0px 0px 2px;
+    font-size: 16px;
+    background-size: 150px;
+  }
