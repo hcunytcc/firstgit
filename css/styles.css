@@ -13,9 +13,9 @@
 }
 .text-bold-2
 {
-    text-shadow: white 1px 0.5px 0px;
-    
-    background-color: rgba(0, 0, 0, 0.95);
+    text-shadow: green 3px 0px 0px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 .text-carroussel 
 {
