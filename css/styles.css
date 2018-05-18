@@ -47,6 +47,13 @@
   background-position:50% 50%; 
   background-size: 100%;
 }
+.bg-header-2
+{
+  background-image: url('../asset/img/culture.jpg');
+  background-repeat:no-repeat;
+  background-position:50% 80%; 
+  background-size: 100%;
+}
 .bg-body-0
 {background-image: url('../asset/img/pub/hotels.jpg');
 background-repeat:no-repeat;
@@ -113,10 +120,7 @@ background-size: 100%;
 {
   transform: scale(1.05);  
 }
-.zoom2:hover 
-{
-  transform: scale(1.1);  
-}
+
 
 
 
