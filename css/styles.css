@@ -10,12 +10,13 @@
     text-shadow: green 1px 0px 0px;
     font-size: 20px;
     background-color: rgba(105, 105, 105, 0.65);
+    color: white;
 }
 .text-bold-2
 {
-    text-shadow: green 3px 0px 0px;
+    text-shadow: green 0px 1px 3px;
     color: white;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 .text-carroussel 
 {
@@ -23,25 +24,47 @@
     font-size: 25px;
     
 }
-.bg-0
+.bg-fixed-0
 {
-  background-image: url('asset/img/culture.jpg');
+  background-image: url('../asset/img/tiare.jpg');
   background-repeat: no-repeat;
   background-position:50% 50%;
   background-attachment: fixed;
   background-size: 100%;
 }
+.bg-fixed-1
+{
+  background-image: url('../asset/img/.jpg');
+  background-repeat: no-repeat;
+  background-position:50% 50%;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+.bg-header-1
+{
+  background-image: url('../asset/img/tahiti.jpg');
+  background-repeat:no-repeat;
+  background-position:50% 50%; 
+  background-size: 100%;
+}
+.bg-body-0
+{background-image: url('../asset/img/pub/hotels.jpg');
+background-repeat:no-repeat;
+background-position:100% 50%;
+background-attachment:fixed;
+background-size: 100%;
+}
 .shadow
 {
     box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.175) !important;
 }
-.btn-hot
+.btn-color
 {
     color: black;
     background-color: rgb(95, 235, 31);
     border: solid 1px;
     border-color: white;
-    box-shadow: 0 1.5rem 2rem rgba(0, 0, 0, 0.175);
+    box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.6);
 }
 .body-color
 {
